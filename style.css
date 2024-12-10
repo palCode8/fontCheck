@@ -1,7 +1,16 @@
+@font-face {
+  font-family: alpino;
+  src: url(fonts/Alpino.ttf);
+}
+@font-face {
+  font-family: poppins;
+  src: url(fonts/Poppins.ttf);
+}
+
 h1 {
-  font-family: Alpino Variable;
+  font-family: alpino;
 }
 
 p {
-  font-family: Poppins Variable;
+  font-family: poppins;
 }
